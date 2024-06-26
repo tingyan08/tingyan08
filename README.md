@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 Hi there, 
 - 🔭 I am pursuing a master's degree in the Department of Civil Engineering at National Taiwan University.
-[![tingyan08's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingyan08&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/tingyan08/github-readme-stats)
+[![tingyan08's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingyan08&show_icons=true&theme=ambient_gradient&hide_rank=true)](https://github.com/tingyan08/github-readme-stats)
  
