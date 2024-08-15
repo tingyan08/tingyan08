@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 Hi there, 
-- 🔭 I am pursuing a master's degree in the Department of Civil Engineering at National Taiwan University.
+- 🔭 I'm a research assistant in Marce Lab at National Taiwan University in the Department of Civil Engineering. Earlier, I received my MS in Computer-Aided Engineering Division, Civil Engineering from NTU advised by Dr. Rih-Teng Wu.
 
 <!-- 
 [![tingyan08's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingyan08&show_icons=true&theme=gruvbox_light&hide_rank=false&include_all_commits=true)](https://github.com/tingyan08/github-readme-stats)
