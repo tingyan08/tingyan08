@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 -->
 
 Hi there, 
-- 🔭 I'm a research assistant in Marce Lab at National Taiwan University in the Department of Civil Engineering. Earlier, I received my MS in Computer-Aided Engineering Division, Civil Engineering from NTU advised by Dr. Rih-Teng Wu.
+- 🔭 <p>
+                  I'm a research assistant in 
+                  <a href="https://marcelab.caece.net/">Marce Lab</a> 
+                  at National Taiwan University in the 
+                  <a href="https://www.ce.ntu.edu.tw/">Department of Civil Engineering</a>.
+                  Earlier, I received my MS in Computer-Aided Engineering Division, Civil Engineering from NTU advised by Dr. 
+                  <a href="https://marcelab.caece.net/people.html">Rih-Teng Wu</a>.
+                </p>
 
 <!-- 
 [![tingyan08's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingyan08&show_icons=true&theme=gruvbox_light&hide_rank=false&include_all_commits=true)](https://github.com/tingyan08/github-readme-stats)
